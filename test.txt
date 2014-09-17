@@ -1,2 +1,7 @@
 hello word!
+
 hopefully this works! - chris
+
+
+Disclaimer: this code carries no warranties, may cause your computer to explode, etc, etc ad nauseam
+
